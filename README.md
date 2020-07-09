@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hey Buddy 👋🏾
 
-<!--
-**just1and0/just1and0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer from Nigeria 🇳🇬 with a strong passion for React Native, JavaScript and the developer community.
 
-Here are some ideas to get you started:
+💬 Ask me about: React Native, JavaScript, Open Source, Mobile development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡️ What I do:
+
+- Software Engineer
+- Speaking at Conferences => Send an Invite to [@Just1and0](https://twitter.com/just1and0) if you need me at your Conference.
+- Founder of [React Native Nigeria Community](https://twitter.com/reactnativeng).
+- Youtube Instructor 
+- Technical Writer
+
+📫 How to reach me:  
+- [Twitter](https://twitter.com/just1and0)
+- [Youtube](https://www.youtube.com/channel/UC8q5ykZI0T4yLtYAo1g63WA?view_as=subscriber)
+- [Medium](https://medium.com/@just1and0)
+- [LinkedIn](https://www.linkedin.com/in/just1and0/)
+
+🥂 Cheers!
