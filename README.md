@@ -1,6 +1,6 @@
 # Hey Buddy 👋🏾
 
-I'm a Software Engineer from Nigeria 🇳🇬 with a strong passion for iOS, React Native, JavaScript, TypeScript and the developer community.
+I'm a UK-based Software Engineer with a strong passion for iOS, React Native, JavaScript, TypeScript, and the developer community.
 
 💬 Ask me about: React Native, JavaScript, Open Source, iOS Mobile development.
 
