@@ -12,8 +12,7 @@ I'm a UK-based Software Engineer with a strong passion for Native, Android, iOS,
 - Youtube Instructor 
 - Technical Writer
 
-📫 How to reach me:  
-- [Twitter](https://twitter.com/just1and0)
+📫 How to reach me:   
 - [Youtube](https://www.youtube.com/channel/UC8q5ykZI0T4yLtYAo1g63WA?view_as=subscriber)
 - [Medium](https://medium.com/@just1and0)
 - [LinkedIn](https://www.linkedin.com/in/just1and0/)
