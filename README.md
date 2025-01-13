@@ -1,12 +1,14 @@
 # Hey Buddy 👋🏾
 
-I'm a UK-based Software Engineer with a strong passion for Native, Android, iOS, React Native, JavaScript, TypeScript, and the developer community.
+I'm a UK-based senior technical consultant passionate about Native, Android, iOS, React Native, JavaScript, TypeScript, and the developer community.
 
 💬 Ask me about: React Native, JavaScript, Open Source, iOS Mobile development.
 
 ⚡️ What I do:
 
-- Software Engineer
+- Lead teams
+- Active development
+- Building React Native open-source projects
 - Speaking at Conferences => Send an Invite to [@Just1and0](https://twitter.com/just1and0) if you need me at your Conference.
 - Founder of [React Native Nigeria Community](https://twitter.com/reactnativeng).
 - Youtube Instructor 
