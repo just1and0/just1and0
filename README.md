@@ -8,11 +8,12 @@ I'm a UK-based senior technical consultant passionate about Native, Android, iOS
 
 - Lead teams
 - Active development
-- Building React Native open-source projects
+- Building open-source projects
 - Speaking at Conferences => Send an Invite to [@Just1and0](https://twitter.com/just1and0) if you need me at your Conference.
-- Founder of [React Native Nigeria Community](https://twitter.com/reactnativeng).
+- Founder of [React Native Nigeria Community](https://reactnativenigeria.com) and [Build with React Native Community](https://buildwithreactnative.com) 
 - Youtube Instructor 
 - Technical Writer
+- Hardware lover - I built a [smart mirror](https://www.linkedin.com/feed/update/urn:li:activity:7406622896237887488/) and control it from [Github](https://github.com/just1and0/smart-mirror-control)
 
 📫 How to reach me:   
 - [Youtube](https://www.youtube.com/channel/UC8q5ykZI0T4yLtYAo1g63WA?view_as=subscriber)
