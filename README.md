@@ -9,7 +9,7 @@ I'm a UK-based senior technical consultant passionate about Native, Android, iOS
 - Lead teams
 - Active development
 - Building open-source projects
-- Speaking at Conferences => Send an Invite to [@Just1and0](https://www.linkedin.com/in/just1and0/) if you like me to speak at your Conference.
+- Speaking at Conferences => → Send an invite to [@Just1and0](https://www.linkedin.com/in/just1and0/) if you’d like me to speak at your conference.
 - Founder of [React Native Nigeria Community](https://reactnativenigeria.com) and [Build with React Native Community](https://buildwithreactnative.com) 
 - Youtube Instructor 
 - Technical Writer
