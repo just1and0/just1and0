@@ -16,8 +16,6 @@ I'm a UK-based senior technical consultant passionate about Native, Android, iOS
 - Hardware lover - I built a [smart mirror](https://www.linkedin.com/feed/update/urn:li:activity:7406622896237887488/) and control it from [Github](https://github.com/just1and0/smart-mirror-control)
 
 📫 How to reach me:   
-- [Youtube](https://www.youtube.com/channel/UC8q5ykZI0T4yLtYAo1g63WA?view_as=subscriber)
-- [Medium](https://medium.com/@just1and0)
 - [LinkedIn](https://www.linkedin.com/in/just1and0/)
 
 🥂 Cheers!
