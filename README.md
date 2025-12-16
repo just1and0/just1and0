@@ -1,8 +1,8 @@
 # Hey Buddy 👋🏾
 
-I'm a UK-based senior technical consultant passionate about Native, Android, iOS, React Native, JavaScript, TypeScript, and the developer community.
+I'm a UK-based senior technical consultant passionate about Native, Android, iOS, React Native, hardware and the developer community.
 
-💬 Ask me about: React Native, JavaScript, Open Source, iOS Mobile development.
+💬 Ask me about: React Native, Open Source, Mobile development, Raspberries Pi
 
 ⚡️ What I do:
 
