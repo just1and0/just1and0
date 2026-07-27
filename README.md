@@ -8,7 +8,7 @@ I'm a UK-based senior technical consultant passionate about Native, Android, iOS
 
 - Senior Software Engineer
 - Student Pilot ✈️
-- Creator of [Sanwo](sanwo.dev)
+- Creator of [Sanwo](https://sanwo.dev)
 - Speaking at Conferences → Send an invite to [@Just1and0](https://www.linkedin.com/in/just1and0/) if you’d like me to speak at your conference.
 - Founder of [React Native Nigeria Community](https://reactnativenigeria.com) 
 - Technical Writer
